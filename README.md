@@ -1,92 +1,93 @@
-# 🌟 **Mentoring 75+ Programmers: EOlymp Competitive Coding Journey**
+# 🚀 **Mentoring Excellence: LeetCode Problem Solving & Growth**
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Students Mentored](https://img.shields.io/badge/Students-75%2B-brightgreen)
-[![EOlymp Profile](https://img.shields.io/badge/EOlymp-View%20Profile-blue)](https://www.eolymp.com/en/users/your-profile)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-View%20Profile-orange)](https://leetcode.com/your-profile)
 
 ---
 
-## 📖 Introduction
+## 🌟 Introduction
 
-Welcome to a repository that captures the real-world impact of hands-on programming mentorship. Here, you’ll find the resources, solutions, and strategies I developed while guiding over 75 students—each with unique backgrounds—through the challenges of algorithmic and competitive programming on EOlymp. This collection is more than just code; it’s a record of growth, resilience, and the art of thinking like a true problem solver.
+Welcome to a unique repository chronicling my journey as a programming mentor, where I guided 75+ students through the world of LeetCode and technical interview preparation. This collection is more than a set of solutions—it's a living archive of strategies, breakthroughs, and the real impact of one-on-one mentorship in algorithmic thinking and coding confidence.
 
 ---
 
-## 📊 Impact at a Glance
+## 📈 Impact Highlights
 
 | Metric                | Value         |
 |-----------------------|--------------|
-| 👨‍🎓 Students Mentored | 75+          |
-| ⏰ Hours of Guidance   | 200+         |
-| 🏆 Success Stories    | 20+ students reached top EOlymp rankings, dozens completed their first contests, and many unlocked new confidence in coding |
+| 👩‍💻 Students Mentored | 75+          |
+| ⏳ Hours Invested      | 250+         |
+| 🏅 Success Stories    | Dozens landed internships, aced interviews, and built lasting problem-solving habits |
 
 ---
 
-## 📦 Features & Contents
+## 📦 Repository Contents
 
-- 📝 **EOlymp Problem Solutions:** Clean, well-commented code for a wide range of algorithmic challenges.
-- 📚 **Problem Explanations:** Step-by-step breakdowns and annotated solutions.
-- 🧠 **Algorithm Notes:** Key concepts, patterns, and competitive programming techniques.
-- 💡 **Mentoring Materials:** Slides, cheat sheets, and session notes from live mentoring.
-- 📈 **Progress Trackers:** Visual charts and diagrams showing student achievements and learning flow.
+- 🗂️ **LeetCode Solutions:** Clean, well-explained code for a wide range of LeetCode problems (Easy, Medium, Hard).
+- 📖 **Problem Walkthroughs:** In-depth explanations, edge case analysis, and annotated code.
+- 🧩 **Interview Prep Guides:** Patterns, cheat sheets, and step-by-step approaches for common interview topics.
+- 📝 **Mentoring Notes:** Personalized feedback, session recaps, and progress logs.
+- 📊 **Progress Visualizations:** Charts and diagrams tracking student milestones and topic mastery.
 
 ---
 
-## 🧭 Mentoring Approach
+## 🧑‍🏫 Mentoring Philosophy
 
-My mentoring philosophy centers on empowering students to think beyond syntax—cultivating analytical reasoning, creative problem-solving, and the confidence to tackle the unknown. I believe in meeting each learner where they are, breaking down complex ideas into approachable steps, and celebrating every milestone along the way.
+I believe in unlocking each student’s unique potential by demystifying algorithms and making problem-solving approachable. My approach blends technical rigor with empathy—breaking down complex challenges, encouraging curiosity, and building the confidence to tackle any coding interview.
 
 ---
 
 ## 🛠️ Technologies & Topics Covered
 
-- **Languages:** Java, Python, C++
-- **Algorithms:** Sorting, searching, dynamic programming, greedy algorithms, graph theory, recursion, data structures (arrays, stacks, queues, trees, maps)
-- **Techniques:** Problem decomposition, time/space complexity analysis, test-driven development, competitive coding strategies
+- **Languages:** Python, Java, JavaScript
+- **LeetCode Topics:** Arrays, Strings, Linked Lists, Trees, Graphs, Dynamic Programming, Backtracking, Binary Search, Sliding Window, Two Pointers, Heaps, Stacks & Queues
+- **Techniques:** Time/Space Complexity Analysis, Recursion, Memoization, Greedy Algorithms, Interview Simulation
 
 ---
 
-## 🖼️ Visual Learning Flow
+## 📊 Visual Progress & Learning Flow
 
 ```mermaid
-flowchart TD
-    A[Student Joins] --> B{Skill Assessment}
-    B -->|Beginner| C[Core Concepts]
-    B -->|Intermediate| D[Algorithmic Challenges]
-    C --> E[Guided Practice]
-    D --> E
-    E --> F[EOlymp Problem Solving]
+graph TD
+    A[Student Onboarding] --> B{Skill Level}
+    B -->|Beginner| C[Fundamentals & Easy Problems]
+    B -->|Intermediate| D[Patterns & Medium Problems]
+    B -->|Advanced| E[Hard Problems & Mock Interviews]
+    C --> F[Weekly Challenges]
+    D --> F
+    E --> F
     F --> G[1:1 Feedback & Review]
     G --> H[Progress Tracking]
-    H --> I[Contest Participation]
-    I --> J[Achievement & Growth]
+    H --> I[Interview Readiness]
+    I --> J[Success Stories]
 ```
 
 ---
 
 ## 🚀 Getting Started
 
-- **Browse Solutions:** Explore the `/src` directory for EOlymp problem solutions and explanations.
-- **Mentoring Materials:** Check the `resources/` folder for slides, notes, and cheat sheets.
-- **Learning Path:** Follow the Mermaid diagram above to see how students progressed through the course.
-- **For Learners:** Use the explanations and notes to deepen your understanding and practice new problems.
-- **For Mentors:** Adapt the materials and flow for your own teaching or study groups.
+- **Browse Solutions:** Dive into the `/solutions` directory for categorized LeetCode problems and detailed explanations.
+- **Mentoring Materials:** Find interview prep guides and session notes in the `resources/` folder.
+- **Visualize Progress:** Use the Mermaid diagram above to understand the mentoring journey and learning flow.
+- **For Learners:** Leverage the explanations and guides to strengthen your problem-solving and interview skills.
+- **For Mentors:** Adapt the resources and structure for your own teaching or study groups.
 
 ---
 
 ## 📝 License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-  
+
 This repository is licensed under the MIT License.
 
 ---
 
 ## 🙏 Acknowledgements
 
-- To every student who brought curiosity and determination to each session—your progress is the heart of this project.
-- Special thanks to EOlymp for providing a challenging and accessible platform for algorithmic growth.
-- Gratitude to the course organizers and fellow mentors for their support and collaboration.
+- To every student who brought determination and curiosity to each session—your growth is the true measure of this work.
+- Thanks to LeetCode for providing a world-class platform for algorithmic mastery.
+- Appreciation to fellow mentors and the broader coding community for inspiration and support.
 
 ---
 
@@ -94,18 +95,18 @@ This repository is licensed under the MIT License.
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Students Mentored](https://img.shields.io/badge/Students-75%2B-brightgreen)
-[![EOlymp Profile](https://img.shields.io/badge/EOlymp-View%20Profile-blue)](https://www.eolymp.com/en/users/your-profile)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-View%20Profile-orange)](https://leetcode.com/your-profile)
 
 ---
 
 ## 📚 Table of Contents
 
 - [Introduction](#introduction)
-- [Impact at a Glance](#impact-at-a-glance)
-- [Features & Contents](#features--contents)
-- [Mentoring Approach](#mentoring-approach)
+- [Impact Highlights](#impact-highlights)
+- [Repository Contents](#repository-contents)
+- [Mentoring Philosophy](#mentoring-philosophy)
 - [Technologies & Topics Covered](#technologies--topics-covered)
-- [Visual Learning Flow](#visual-learning-flow)
+- [Visual Progress & Learning Flow](#visual-progress--learning-flow)
 - [Getting Started](#getting-started)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
@@ -113,4 +114,4 @@ This repository is licensed under the MIT License.
 
 ---
 
-Thank you for visiting this repository—where code meets mentorship, and every solution tells a story of growth.
+Thank you for exploring this repository—where mentorship meets mastery, and every solution is a step toward real-world success.
